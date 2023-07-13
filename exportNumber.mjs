@@ -1,3 +1,3 @@
-const num = 2;
+const num = 25;
 
 export default num;
